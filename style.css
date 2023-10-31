@@ -12,3 +12,6 @@ p{
     text-align: justify;
     font-size: 20px;
 }
+img{
+    border: 10px solid green;
+}
